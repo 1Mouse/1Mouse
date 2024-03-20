@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elfar</h1>
-<h3 align="center">Front-end Software engineer (Reactjs | Nextjs)</h3>
+<h3 align="center">Front-end Software Engineer (Reactjs | Nextjs)</h3>
 <h1 align="center"><a href="https://drive.google.com/file/d/1L5JoPsg7uC4kkSdkpr7s1svlgjUCT4Ct/view?usp=drive_link">Resume</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1mouse&label=Profile%20views&color=0e75b6&style=flat" alt="1mouse" /> </p>
