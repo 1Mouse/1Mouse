@@ -7,9 +7,7 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1mouse" alt="1mouse" /></a> </p>
 -->
-- 🌱 I’m currently learning **React / Next.js**
-
-- 👯 I’m looking to collaborate on **React / Next.js projects**
+- 🌱 I’m currently working with **React / Next.js** and I am active here --> [Mohamed Elfar (Simplepx)](https://github.com/MohamedElfar-Simplepx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
