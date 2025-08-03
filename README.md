@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elfar</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Refaat Elfar</h1>
 <h3 align="center">Front-end Software Engineer (Reactjs | Nextjs)</h3>
 <h2 align="center"><a href="https://drive.google.com/file/d/1e-HSjc-SWNoVfrJee_Swg-yMmEyrl2WU/view?usp=sharing">Resume</a></h1>
 
@@ -7,7 +7,7 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1mouse" alt="1mouse" /></a> </p>
 -->
-- 🌱 I’m currently working with **React / Next.js** and I am active here --> [Mohamed Elfar (Simplepx)](https://github.com/MohamedElfar-Simplepx)
+- 🌱 I’m currently working with **React / Next.js** and I am active here --> [Mohamed Refaat (Faradah)](https://github.com/Mohamed-Refaat-Faradah)
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
