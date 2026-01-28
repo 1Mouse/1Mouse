@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Refaat Elfar</h1>
-<h3 align="center">Front-end Software Engineer (Reactjs | Nextjs)</h3>
-<h2 align="center"><a href="https://drive.google.com/file/d/1XCqem9svAv3vj6GtuO-OY3vLuZYXgtoE/view?usp=sharing">Resume</a></h1>
+<h3 align="center">Senior Front-end Software Engineer (Reactjs | Nextjs)</h3>
+<h2 align="center"><a href="https://drive.google.com/file/d/1aG0WcmHNxrxGi6YjuOPPaFzzV_k63-Ob/view?usp=sharing">Resume</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1mouse&label=Profile%20views&color=0e75b6&style=flat" alt="1mouse" /> </p>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1mouse" alt="1mouse" /></a> </p>
 -->
-- 🌱 I’m currently working with **React / Next.js** and I am active here --> [Mohamed Refaat (Faradah)](https://github.com/Mohamed-Refaat-Faradah)
+
+- 🌱 I’m currently working with with the amazing team at **Vxlabs**
+
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
