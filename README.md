@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1mouse" alt="1mouse" /></a> </p>
 -->
 
-- 🌱 I’m currently working with with the amazing team at **Vxlabs**
+- 🌱 I’m currently working with the amazing team at **Vxlabs**
 
 
 <h4 align="left">Connect with me:</h3>
