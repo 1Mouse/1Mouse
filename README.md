@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Refaat Elfar</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Refaat</h1>
 <h3 align="center">Senior Software Engineer - Full Stack (Frontend Heavy)</h3>
 <h2 align="center"><a href="https://refaat.dev">Portfolio / Blog</a></h2>
 <p align="left">
